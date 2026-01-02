@@ -1,1 +1,1 @@
-https://github.com/ermakovroman424/posmotri_v_okno
+https://github.com/ermakovroman424/posmotri-v-okno-ad
